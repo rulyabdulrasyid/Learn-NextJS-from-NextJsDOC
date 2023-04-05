@@ -1,1 +1,1 @@
-# Learn-NextJS-from-NextJsDOC
+April 2023 => in this repo i will share tou you about my journey to learn NextJS. before starting to learn nextJs, i have basic skills about javascript, ExpressJs, NodeJs and little ReactJS. Let's Start!!!
